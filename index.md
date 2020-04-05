@@ -46,7 +46,5 @@
 ### 球員位置
   <img src = "https://lh3.googleusercontent.com/proxy/94-cDau5ofSj5IiZgk4j3_mYfwlW2bEcid4klaIat9wOXEws46keF3WJdnmetgPiNFH8tNwJCLaHZkcuvc_1Y7HAjhy1slylUNqPk5yu-gEM35siboFwRYVbbK7xRaz-1pTqfa3Z1CNfG_8Qgr_vkvBcaurfc2L_VNlUnUXd4XQ" width="600" alt="排球位置"/>
  
-### 經典影片回顧
+### 經典影片回顧（2019世界男子排球錦標賽）
 [![](http://img.youtube.com/vi/o78y1264dD8/0.jpg)](http://www.youtube.com/watch?v=o78y1264dD8 "2019JAPAN vs. BRAZIL")
-
-
