@@ -1,9 +1,9 @@
-## 排球小知識
+## 排球小知識 <img src = "https://www.conti.com.tw/UploadFile/GoodPic/144315154322971_big.jpg" width="200" alt="排球"/>
 
 You can use the [editor on GitHub](https://github.com/HenryChen430/shuanche.git.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-![Image of Volleyball](https://www.conti.com.tw/UploadFile/GoodPic/144315154322971_big.jpg)
-<img src = "https://www.conti.com.tw/UploadFile/GoodPic/144315154322971_big.jpg" width="200" alt="排球"/>
+//![Image of Volleyball](https://www.conti.com.tw/UploadFile/GoodPic/144315154322971_big.jpg)
+
 
 
 ### 排球規則
