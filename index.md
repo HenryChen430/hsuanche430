@@ -1,4 +1,4 @@
-+## 排球小知識
+## 排球小知識
 
 You can use the [editor on GitHub](https://github.com/HenryChen430/shuanche.git.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -8,7 +8,7 @@ You can use the [editor on GitHub](https://github.com/HenryChen430/shuanche.git.
 
 ### 排球規則
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
++Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
