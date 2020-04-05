@@ -13,7 +13,7 @@
   3.比賽是由發球開始：發球員擊球過網，展開雙方來回對擊，直到球落地出界、或某隊未能合法將球擊回對區為止。
   4.排球比賽中，球隊贏得一球即獲得一分（得球得分制），當接發球隊贏得一球時，則該隊得一分並得到發球權。
   
-- 球員位置
+- 球員種類
   1.舉球員(二傳)：顧名思義就是將第二球傳給攻擊手，讓他們攻擊。
     
   2.主攻(大砲)：通常都打長攻，以強大的火力或穩定的處理能力來得分。
@@ -23,6 +23,10 @@
   4.自由(守護神)：守備範圍非常大，移動速度飛快。
   
   5.舉對(輔舉)：通常是協助舉球員，或打背舉的球。
+  
+-球員位置
+<img src = "https://lh3.googleusercontent.com/proxy/94-cDau5ofSj5IiZgk4j3_mYfwlW2bEcid4klaIat9wOXEws46keF3WJdnmetgPiNFH8tNwJCLaHZkcuvc_1Y7HAjhy1slylUNqPk5yu-gEM35siboFwRYVbbK7xRaz-1pTqfa3Z1CNfG_8Qgr_vkvBcaurfc2L_VNlUnUXd4XQ" width="400" alt="排球位置"/>
+
   
 - 舉球球路代號
   Ａ快：就是最快的快攻，攻擊手在還沒舉球前就要開始跑
