@@ -5,7 +5,6 @@
 ### 關於排球
 
 ```markdown
-
 - 比賽特性
   1.排球比賽是由兩隊球員在以球網隔開的場地上進行比賽的一種團隊競技。
   2.比賽的目標，是要將球擊球過網，使其落在對方球場的地面，並防止對方將球擊落在本方球場地面，每隊有三次機
@@ -45,7 +44,6 @@
 ```
 
 ### 球員位置
-
   <img src = "https://lh3.googleusercontent.com/proxy/94-cDau5ofSj5IiZgk4j3_mYfwlW2bEcid4klaIat9wOXEws46keF3WJdnmetgPiNFH8tNwJCLaHZkcuvc_1Y7HAjhy1slylUNqPk5yu-gEM35siboFwRYVbbK7xRaz-1pTqfa3Z1CNfG_8Qgr_vkvBcaurfc2L_VNlUnUXd4XQ" width="400" alt="排球位置"/>
   
   
