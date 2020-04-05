@@ -2,6 +2,8 @@
 
 You can use the [editor on GitHub](https://github.com/HenryChen430/shuanche.git.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
 
 ### 排球規則
 
