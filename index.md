@@ -7,7 +7,7 @@ You can use the [editor on GitHub](https://github.com/HenryChen430/shuanche.git.
 
 ```markdown
 
-# 比賽特性
+### 比賽特性
   1.排球比賽是由兩隊球員在以球網隔開的場地上進行比賽的一種團隊競技。
   2.比賽的目標，是要將球擊球過網，使其落在對方球場的地面，並防止對方將球擊落在本方球場地面，每隊有三次機
     會將球擊回對區（攔網觸球除外）。
